@@ -1,0 +1,134 @@
+GeneID,Variant ID,CHR,Location,Variant and risk allele,Alleles,Minor allele,Trait,ENTREZID,P,Mapped gene,Most severe consequence
+TNXA,rs2071278,6,32197667,rs2071278-G,A/G,G,Complement C3 and C4 levels,7146,4.00E-72,NOTCH4,Intron variant
+TNXA,rs8283  ,6,32115523,rs8283-G,A/G,G,complement C4 measurement,7146,2.00E-17,"ATF6B, AL662884.2",3 prime utr variant
+TNXA,rs389884  ,6,31973120,rs389884-C,A/G,G,membranous glomerulonephritis,7146,8.00E-66,STK19,Non coding transcript exon variant
+TNXA,rs3134605 ,6,32192179,rs3134605-T,T/C,C,glomerular filtration rate,7146,7.00E-17,GPSM3,Missense variant
+FCER1A,rs16827466,1,159679910,rs16827466-T,C/T,T,C-reactive protein measurement,2205,4.00E-73,"AL445528.2, CRPP1",Intergenic variant
+FCER1A,rs2808634,1,159722783,rs2808634-T,T/A/C,T,C-reactive protein measurement,2205,3.00E-10,"CRP, AL445528.1",Intergenic variant
+FCER1A,rs3845624,1,159248476,rs3845624-C,A/C,A,C-reactive protein measurement,2205,2.00E-11,"CADM3-AS1, MPTX1",Regulatory region variant
+FCER1A,rs3845624,1,159248476,rs3845624-?,A/C,A,C-reactive protein measurement,2205,4.00E-07,"CADM3-AS1, MPTX1",Regulatory region variant
+FCER1A,rs56288844,1,159330024,rs56288844-A,G/A,A,C-reactive protein measurement,2205,1.00E-16,"AL513323.1, OR10J3",Intergenic variant
+FCER1A,rs7553007,1,59728759,rs7553007-A,G/A,A,C-reactive protein measurement,2205,8.00E-44,"CRP, AL445528.1",Intergenic variant
+FCER1A,rs7553007,1,59728759,rs7553007-T,G/A,A,C-reactive protein measurement,2205,1.00E-27,"CRP, AL445528.1",Intergenic variant
+FCER1A,rs7553007,1,59728759,rs7553007-G,G/A,A,C-reactive protein measurement,2205,1.00E-09,"CRP, AL445528.1",Intergenic variant
+FCER1A,rs13962,1,159205737,rs13962-A,G/A,A,serum IgE measurement,2205,2.00E-11,"CADM3-AS1, ACKR1",Missense variant
+FCER1A,rs2251746  ,1,159302270,rs2251746-C,T/C,C,serum IgE measurement,2205,2.00E-20,FCER1A, Intron variant
+FCER1A,rs2251746  ,1,159302270,rs2251746-C,T/C,C,serum IgE measurement,2205,5.00E-26,FCER1A, Intron variant
+LDLRAD4,rs12232685  ,18,13437028,rs12232685-T,C/T,T,"adverse effect, response to drug",753,9.00E-09,LDLRAD4,Intron variant
+LDLRAD4,rs12232685  ,18,13437028,rs12232685-T,C/T,T,"adverse effect, response to drug",753,2.00E-08,LDLRAD4,Intron variant
+LDLRAD4,rs3826559 ,18,13725961,rs3826559-G,G/A,A,C-reactive protein measurement,753,7.00E-11,FAM210A,Intron variant
+GDF15,rs66978877 ,19,18344847,rs66978877-T,T/C,C,hypertension,9518,5.00E-09,PGPEP1,Intron variant
+ATF3,rs3123543  ,1,212617344,rs3123543-?,T/A/C,T,mean corpuscular hemoglobin concentration,467,1.00E-08,ATF3,Intron variant
+ATF3,rs3123543  ,1,212617344,rs3123543-?,T/A/C,T, red blood cell distribution width,467,1.00E-08,ATF3,Intron variant
+NME3,rs2277899  ,16,789838,rs2277899-C,A/C/T,C,mean corpuscular hemoglobin,4832,3.00E-13,CHTF18,Intron variant
+NME3,rs11648261  ,16,1745600,rs11648261-A,A/G,G,C-reactive protein measurement,4832,6.00E-09,MAPK8IP3,Non coding transcript exon variant
+FPR3,rs10853845,19,51784930,rs10853845-G,A/G,G,multiple sclerosis,2359,2.00E-06,FPR1,Intron variant 
+FPR3,rs7260516 ,19,51784199,rs7260516-A,G/T,T,multiple sclerosis,2359,3.00E-06,FPR1,Intron variant
+FMOD,rs17534202  ,1,203312047,rs17534202-C,G/C,C,mean corpuscular hemoglobin,2331,3.00E-27,"RNU6-487P, BTG2",Intergenic variant
+FMOD,rs17534202  ,1,203312047,rs17534202-C,G/C,C,red blood cell distribution width,2331,6.00E-14,"RNU6-487P, BTG2",Intergenic variant
+FMOD,rs4543864  ,1,203291372,rs4543864-T,T/C,T,multiple sclerosis,2331,3.00E-06,"LINC01136, LINC01353",Regulatory region variant
+FMOD,rs6661843  ,1,203656523,rs6661843-A,G/A,A,immunoglobulin isotype switching measurement,2331,2.00E-08,ATP2B4,Intron variant
+BTG2,rs17534202  ,1,203312047,rs17534202-C,G/C,C,mean corpuscular hemoglobin,7832,3.00E-27,"RNU6-487P, BTG2", Intergenic variant
+BTG2,rs17534202  ,1,203312047,rs17534202-C,G/C,C,red blood cell distribution width,7832,6.00E-14,"RNU6-487P, BTG2",Intergenic variant
+BTG2,rs6661843  ,1,203656523,rs6661843-A,G/A,A,immunoglobulin isotype switching measurement,7832,2.00E-08,ATP2B4,Intron variant
+BTG2,rs4543864 ,1,203291372,rs4543864-T,T/C,T,multiple sclerosis,7832,3.00E-06,"LINC01136, LINC01353",Regulatory region variant
+ZEB1,rs1891621  ,10,31101198,rs1891621-?,A/G,G,multiple sclerosis,6935,1.00E-11,AL359546.1,Intron variant
+ZEB1,rs1891621 ,10,31101198,rs1891621-G,A/G,G,nephrotic syndrome,6935,4.00E-06,AL359546.1,Intron variant
+NR1I3,rs2502815 ,1,61233437,rs2502815-?,G/A,A,red blood cell distribution width,9970,8.00E-09,NR1I3,Intron variant
+PLXDC1,rs79730542  ,17,39142536,rs79730542-?,T/C,C,leukocyte count,57125,3.00E-10,PLXDC1,Intron variant
+TGIF1,rs681869 ,18,2981400,rs681869-C,C/T,C,red blood cell distribution width,7050,1.00E-17,"LPIN2, AP000919.2",Intron variant
+TGIF1,rs681869 ,18,2981400,rs681869-C,C/T,C,red blood cell distribution width,7050,2.00E-15,"LPIN2, AP000919.2",Intron variant
+TGIF1,rs681869 ,18,2981400,rs681869-?,C/T,C,red blood cell distribution width,7050,1.00E-12,"LPIN2, AP000919.2",Intron variant
+PTGER4,rs79575541 ,5,40672320,rs79575541-C,C/G,G,blood urea nitrogen measurement,5734,4.00E-84,TTC33,Intron variant
+PTGER4,rs10071761 ,5,40415509,rs10071761-?,T/C,C,selective IgA deficiency disease,5734,5.00E-07,AC093277.1,Intron variant
+PTGER4,rs7713972  ,5,40552372,rs7713972-C,C/T,C,complement component C7 measurement,5734,5.00E-14,TTC33,Intron variant
+PTGER4,rs11749040,5,40396323,rs11749040-A,G/A,A,multiple sclerosis,5734,5.00E-25,"AC108105.1, AC093277.1",Regulatory region variant
+PTGER4,rs4613763,5,40392626,rs4613763-G,T/C,C,multiple sclerosis,5734,3.00E-16,"AC108105.1, AC093277.1",Regulatory region variant
+PTGER4,rs6896969,5,40424324,rs6896969-C,A/C/G,C,multiple sclerosis,5734,2.00E-07,AC093277.1,Intron variant
+PTGER4,rs78077440,5,40323665,rs78077440-G,G/A/T,A,multiple sclerosis,5734,2.00E-06,"AC108105.1, AC093277.1",Intergenic variant
+PTGER4,rs9292777 ,5,40437846,rs9292777-T,C/T,T,multiple sclerosis,5734,1.00E-09,"AC114977.1, AC093277.1",Regulatory region variant
+AXL,rs15052  ,19,41307470,rs15052-T,T/C,C,urinary albumin to creatinine ratio,558,2.00E-10,"TGFB1, HNRNPUL1, AC011462.5",3 prime utr variant
+AXL,rs12983339  ,19,41264985,rs12983339-G,A/G,G,mean corpuscular hemoglobin,558,2.00E-18,HNRNPUL1,5 prime utr variant
+AXL,rs12983339  ,19,41264985,rs12983339-?,A/G,G,mean corpuscular hemoglobin,558,2.00E-15,HNRNPUL1,5 prime utr variant
+TNFSF10,rs144147880 ,3,172547843,rs144147880-?,C/G/T,T,mean corpuscular hemoglobin,8743,3.00E-10,"TNFSF10, LINC02068",Regulatory region variant
+TNFSF10,rs234043 ,3,172595577,rs234043-?,T/C,T,renal cell carcinoma,8743,1.00E-07,LINC02068,Non coding transcript exon variant
+CYP1A2,rs2472297,15,74735539,rs2472297-T,C/T,T,glomerular filtration rate,1544,8.00E-34,"CYP1A1, CYP1A2",Intergenic variant
+CYP1A2,rs2472297,15,74735539,rs2472297-T,C/T,T,glomerular filtration rate,1544,8.00E-20,"CYP1A1, CYP1A2",Intergenic variant
+CYP1A2,rs2472297,15,74735539,rs2472297-T,C/T,T,glomerular filtration rate,1544,2.00E-12,"CYP1A1, CYP1A2",Intergenic variant
+CYP1A2,rs2472297,15,74735539,rs2472297-T,C/T,T,glomerular filtration rate,1544,1.00E-34,"CYP1A1, CYP1A2",Intergenic variant
+CYP1A2,rs2472297,15,74735539,rs2472297-T,C/T,T,glomerular filtration rate,1544,2.00E-18,"CYP1A1, CYP1A2",Intergenic variant
+CYP1A2,rs2470893,15,74727108,rs2470893-T,C/T,T,urinary albumin to creatinine ratio,1544,1.00E-26,"CYP1A1, CYP1A2",Regulatory region variant
+CYP1A2,rs2470893,15,74727108,rs2470893-T,C/T,T,urinary albumin to creatinine ratio,1544,8.00E-27,"CYP1A1, CYP1A2",Regulatory region variant
+CYP1A2,rs2472297  ,15,74735539,rs2472297-T,C/T,T,urinary albumin to creatinine ratio,1544,2.00E-32,"CYP1A1, CYP1A2",Intergenic variant
+CYP1A2,rs2472297  ,15,74735539,rs2472297-T,C/T,T,urinary albumin to creatinine ratio,1544,3.00E-16,"CYP1A1, CYP1A2",Intergenic variant
+CYP1A2,rs2470893,15,74727108,rs2470893-T,C/T,T,albuminuria,1544,6.00E-16,"CYP1A1,CYP1A2",Regulatory region variant
+CYP1A2,rs2472297 ,15,74735539,rs2472297-T,C/T,T,albuminuria,1544,5.00E-22,"CYP1A1, CYP1A2",Intergenic variant
+CYP1A2,rs936226  ,15,74776941,rs936226-?,C/T,T,hypertension,1544,9.00E-15,"CYP1A2, CSK",Intergenic variant
+CYP1A2,rs79755028 ,15,4768072,rs79755028-?,G/A,A,serum albumin measurement,1544,5.00E-09,"CYP1A2, CSK",Intergenic variant
+CYP1A2,rs2470893 ,15,74727108,rs2470893-T,C/T,T,Microalbuminuria,1544,1.00E-09,"CYP1A1, CYP1A2",Regulatory region variant
+CYTL1,rs7672495 ,4,4990640,rs7672495-C,T/C,C,autoimmune disease,54360,1.00E-07,"RN7SKP113, CYTL1",Regulatory region variant
+BHLHE40,rs75898076  ,3,4721160,rs75898076-G,G/A,A,C-reactive protein measurement,8553,3.00E-12,ITPR1,Intron variant
+BHLHE40,rs4560284  ,3,4849521,rs4560284-A,G/A,G,multiple sclerosis,8553,6.00E-08,AC018816.1,Intron variant 
+BHLHE40,rs304029 ,3,4504140,rs304029-G,A/C,C,diabetic nephropathy,8553,1.00E-06,ITPR1,Intron variant 
+IFI16,rs16827466,1,159679910,rs16827466-T,C/T,T,C-reactive protein measurement,3428,4.00E-73,"AL445528.2, CRPP1", Intergenic variant
+IFI16,rs2808634,1,159722783,rs2808634-T,T/A/C,T,C-reactive protein measurement,3428,3.00E-10,"CRP, AL445528.1",Intergenic variant
+IFI16,rs2808634,1,159722783,rs2808634-?,T/A/C,T,C-reactive protein measurement,3428,3.00E-06,"CRP, AL445528.1",Intergenic variant
+IFI16,rs7553007  ,1,159728759,rs7553007-A,G/A,A,C-reactive protein measurement,3428,8.00E-44,"CRP, AL445528.1",Intergenic variant
+IFI16,rs7553007  ,1,159728759,rs7553007-T,G/A,A,C-reactive protein measurement,3428,1.00E-37,"CRP, AL445528.1",Intergenic variant
+IFI16,rs7553007  ,1,159728759,rs7553007-G,G/A,A,C-reactive protein measurement,3428,1.00E-09,"CRP, AL445528.1",Intergenic variant
+IFI16,rs1772408  ,1,159035859,rs1772408-?,A/G/T,A,immune system disease,3428,8.00E-07,IFI16,Intron variant
+JUNB,rs74789101,19,12609925,rs74789101-?,G/A,A,mean corpuscular hemoglobin,3726,4.00E-13,ZNF490,Missense variant
+SPON1,rs1819084  ,11,13974608,rs1819084-C,C/A,A,Tuberculosis,10418,9.00E-06,SPON1,Intron variant
+ETNPPL,rs55929207,4,108782393,rs55929207-C,C/A/G/T,G,glomerular filtration rate,64850,4.00E-16,"RCC2P8, AC097473.1",Intergenic variant
+ETNPPL,rs7681615,4,108772299,rs7681615-T,T/C,T,glomerular filtration rate,64850,6.00E-08,"AC097473.1, ETNPPL",Intergenic variant
+ETNPPL,rs7681615,4,108772299,rs7681615-T,T/C,T,glomerular filtration rate,64850,5.00E-09,"AC097473.1, ETNPPL",Intergenic variant
+ETNPPL,rs7687209  ,4,108772770,rs7687209-T,T/C,T,glomerular filtration rate,64850,1.00E-15,"AC097473.1, ETNPPL",Intergenic variant
+ANK1,rs149489081,8,41732218,rs149489081-G,T/G,G,mean corpuscular hemoglobin concentration,286,2.00E-17,ANK1,Intron variant
+ANK1,rs34664882,8,41686157,rs34664882-A,G/A,A,mean corpuscular hemoglobin concentration,286,4.00E-43,ANK1,Missense variant
+ANK1,rs34664882,8,41686157,rs34664882-A,G/A,A,mean corpuscular hemoglobin concentration,286,7.00E-68,ANK1,Missense variant
+ANK1,rs4737009,8,41772887,rs4737009-A,G/A,A,mean corpuscular hemoglobin concentration,286,6.00E-12,ANK1,Intron variant
+ANK1,rs4737009,8,41772887,rs4737009-A,G/A,A,mean corpuscular hemoglobin concentration,286,1.00E-15,ANK1,Intron variant
+ANK1,rs4737009,8,41772887,rs4737009-A,G/A,A,mean corpuscular hemoglobin concentration,286,4.00E-27,ANK1,Intron variant
+ANK1,rs4737009,8,41772887,rs4737009-A,G/A,A,mean corpuscular hemoglobin concentration,286,1.00E-10,ANK1,Intron variant
+ANK1,rs4737010  ,8,41772929,rs4737010-A,G/A,A,mean corpuscular hemoglobin concentration,286,4.00E-62,ANK1,Intron variant
+ANK1,rs1819953,8,41808436,rs1819953-A,G/A,A,red blood cell distribution width,286,3.00E-20,ANK1,Intron variant
+ANK1,rs4737010,8,41772929,rs4737010-A,G/A,A,red blood cell distribution width,286,4.00E-11,ANK1,Intron variant
+ANK1,rs4737010,8,41772929,rs4737010-G,G/A,A,red blood cell distribution width,286,6.00E-56,ANK1,Intron variant
+ANK1,rs4737010,8,41772929,rs4737010-G,G/A,A,red blood cell distribution width,286,1.00E-53,ANK1,Intron variant
+ANK1,rs4737010,8,41772929,rs4737010-?,G/A,A,red blood cell distribution width,286,9.00E-50,ANK1,Intron variant
+ANK1,rs4737010,8,41772929,rs4737010-A,G/A,A,red blood cell distribution width,286,3.00E-35,ANK1,Intron variant
+ANK1,rs6150565,8,1655063,rs6150565-C,ACAGCAGAGTCTATACAGC/ACAGC/ACAGCAGAGTCTATACAGCAGAGTCTATACAGC,NA,red blood cell distribution width,286,6.00E-12,ANK1,3 prime utr variant
+ANK1,rs6150565,8,1655063,rs6150565-C,ACAGCAGAGTCTATACAGC/ACAGC/ACAGCAGAGTCTATACAGCAGAGTCTATACAGC,NA,red blood cell distribution width,286,3.00E-43,ANK1,3 prime utr variant
+ANK1,rs72638977 ,8,41683104,rs72638977-?,A/G,G,red blood cell distribution width,286,8.00E-26,ANK1,Intron variant
+ANK1,rs10096908  ,8,41784039,rs10096908-?,C/T,T,hypertension,286,6.00E-06,ANK1,Intron variant
+COL14A1,rs28760377,8,119971791,rs28760377-?,G/A,A,mean corpuscular hemoglobin,7373,5.00E-09,DEPTOR,Intron variant
+COL14A1,rs79346194  ,8,119874246,rs79346194-A,A/G,G,glomerular filtration rate,7373,2.00E-08,"AP005717.1, DEPTOR",Non coding transcript exon variant
+COL14A1,rs4871827  ,8,120049640,rs4871827-G,G/A,A,C-reactive protein measurement,7373,7.00E-11,DEPTOR,Missense variant
+ITGAV,rs9333290  ,2,186654611,rs9333290-T,G/T,T,urinary albumin to creatinine ratio,3685,4.00E-06,"AC017101.1, ITGAV",Intron variant
+ITGAV,rs9333290  ,2,186654611,rs9333290-T,G/T,T,urinary albumin to creatinine ratio,3685,8.00E-07,"AC017101.1, ITGAV",Intron variant
+ITGAV,rs12615659  ,2,186686580,rs12615659-A,T/A/C,A,Microalbuminuria,3685,1.00E-06,AC017101.1,Intron variant
+MYOZ2,rs17263971  ,4,119026891,rs17263971-A,A/C,C,glomerular filtration rate,51778,4.00E-06,SYNPO2,Missense variant
+MYOZ2,rs17263971  ,4,119026891,rs17263971-A,A/C,C,renal transplant outcome measurement,51778,4.00E-06,SYNPO2,Missense variant
+MYOZ2,rs1472066 ,4,118942321,rs1472066-?,A/G,G,serum IgE measurement,51778,8.00E-06,SYNPO2,Intron variant
+CAMK2A,rs4958456  ,5,150243802,rs4958456-A,C/T,T,urinary metabolite measurement,815,5.00E-07,CAMK2A,Intron variant
+SORT1,rs629301,1,109275908,rs646776-T,C/T,C,C-reactive protein measurement,6272,3.00E-09,"PSRC1, CELSR2",Intergenic variant
+SORT1,rs1963869  ,1,109358840,rs1963869-G,G/A/C,G,glomerular filtration rate,6272,4.00E-15,SORT1,Intron variant
+SORT1,rs646776  ,1,109275908,rs646776-T,C/T,C,C-reactive protein measurement,6272,3.00E-09,"PSRC1, CELSR2",Intergenic variant
+SORT1,rs10127790 ,1,109348511,rs10127790-T,C/T,C,creatinine measurement,6272,8.00E-09,SORT1,Intron variant
+SORT1,rs10127790 ,1,109348511,rs10127790-T,C/T,C,glomerular filtration rate,6272,8.00E-09,SORT1,Intron variant
+SORT1,rs7528419 ,1,109274570,rs7528419-A,A/G,G,C-reactive protein measurement,6272,3.00E-12,CELSR2,3 prime utr variant
+SORT1,rs1933182 ,1,109275908,rs646776-T,C/T,C,creatinine measurement,6272,3.00E-09,"PSRC1, CELSR2",Intergenic variant
+SORT1,rs1933182 ,1,109275908,rs646776-T,C/T,C, chronic kidney disease,6272,3.00E-09,"PSRC1, CELSR2",Intergenic variant
+IL33,rs10815381  ,9,6226289,rs10815381-?,A/G,G,Acute kidney injury,90865,8.00E-06,IL33,Intron variant
+IL33,rs10815381  ,9,6226289,rs10815381-?,A/G,G,illness severity status,90865,8.00E-06,IL33,Intron variant
+SPRY1,rs58530613 ,4,123806369,rs58530613-C,T/C,C,platelet count,10252,3.00E-09,LINC01091,Intron variant
+RANBP1,rs4680  ,22,19963748,rs4680-A,G/A,A,chronic kidney disease,5902,5.00E-178,COMT,Missense variant
+RANBP1,rs4680  ,22,19963748,rs4680-A,G/A,A, urinary metabolite measurement,5902,5.00E-178,COMT,Missense variant
+RANBP1,rs4680  ,22,19963748,rs4680-A,G/A,A,chronic kidney disease,5902,1.00E-13,COMT,Missense variant
+RANBP1,rs4680  ,22,19963748,rs4680-A,G/A,A, urinary metabolite measurement,5902,1.00E-13,COMT,Missense variant
+RANBP1,rs1034564,22,19996490,rs1034564-T,C/T,T,platelet count,5902,1.00E-11,ARVCF,Intron variant
+RANBP1,rs1034566  ,22,19996754,rs1034566-T,C/G/T,T,platelet count,5902,3.00E-08,ARVCF,Intron variant
+RANBP1,rs2106139  ,22,19577734,rs2106139-G,G/A,A,serum IgG glycosylation measurement,5902,6.00E-06,"AC000077.1, LINC00895",Regulatory region variant
+PLVAP,rs11554159 ,19,18175134,rs11554159-G,G/A,A,multiple sclerosis,83483,2.00E-24,"AC007192.1, IFI30",Missense variant
+FAIM2,rs7958679 ,12,49268608,rs7958679-T,C/T,T,platelet component distribution width,23017,3.00E-98,"TUBA1C, AC125611.3",Intron variant
+FAIM2,rs7958679 ,12,49268608,rs7958679-T,C/T,T,platelet component distribution width,23017,1.00E-287,"TUBA1C, AC125611.3",Intron variant
